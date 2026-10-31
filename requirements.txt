@@ -1,0 +1,11 @@
+datasets
+transformers
+accelerate
+sentencepiece
+sacrebleu
+evaluate
+torch
+pandas
+numpy
+matplotlib
+huggingface_hub
