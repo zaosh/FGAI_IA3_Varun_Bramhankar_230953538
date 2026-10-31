@@ -1,0 +1,10 @@
+{
+  "model": "LLaMA",
+  "architecture": "Decoder-only",
+  "adaptation": "Few-shot prompting (3 examples), no fine-tuning",
+  "params": 1235814400,
+  "bleu": 2.42,
+  "chrf": 11.67,
+  "train_time_s": null,
+  "infer_time_s": 95.7
+}

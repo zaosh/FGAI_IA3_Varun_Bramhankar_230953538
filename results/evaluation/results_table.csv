@@ -1,0 +1,5 @@
+model,architecture,adaptation,params_M,bleu,chrf,train_time_s,infer_time_s,infer_ms_per_sentence
+Transformer,Encoder-decoder,Trained from scratch,5.2,0.23,5.92,111.5,3.4,8.5
+mT5,Encoder-decoder,Full fine-tuning (mt5-small),300.2,4.31,21.84,710.9,13.6,34.0
+LLaMA,Decoder-only,"Few-shot prompting (3 examples), no fine-tuning",1235.8,2.42,11.67,,95.7,239.3
+Gemma,Decoder-only,"Few-shot prompting (3 examples), no fine-tuning",999.9,9.36,35.26,,83.4,208.5

@@ -1,0 +1,10 @@
+{
+  "model": "mT5",
+  "architecture": "Encoder-decoder",
+  "adaptation": "Full fine-tuning (mt5-small)",
+  "params": 300176768,
+  "bleu": 4.31,
+  "chrf": 21.84,
+  "train_time_s": 710.9,
+  "infer_time_s": 13.6
+}

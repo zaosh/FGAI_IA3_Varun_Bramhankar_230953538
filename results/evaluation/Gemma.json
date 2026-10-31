@@ -1,0 +1,10 @@
+{
+  "model": "Gemma",
+  "architecture": "Decoder-only",
+  "adaptation": "Few-shot prompting (3 examples), no fine-tuning",
+  "params": 999885952,
+  "bleu": 9.36,
+  "chrf": 35.26,
+  "train_time_s": null,
+  "infer_time_s": 83.4
+}

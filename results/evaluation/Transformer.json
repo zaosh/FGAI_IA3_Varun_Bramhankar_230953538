@@ -1,0 +1,10 @@
+{
+  "model": "Transformer",
+  "architecture": "Encoder-decoder",
+  "adaptation": "Trained from scratch",
+  "params": 5234688,
+  "bleu": 0.23,
+  "chrf": 5.92,
+  "train_time_s": 111.5,
+  "infer_time_s": 3.4
+}
